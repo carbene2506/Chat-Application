@@ -1,0 +1,14 @@
+.chat-loading-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .chat-loading-item {
+    width: 100%;
+    height: 45px;
+    background-color: #f0f0f0; /* Change color as needed */
+    border-radius: 5px;
+  }
+  
+  
